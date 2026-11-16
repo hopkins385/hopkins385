@@ -1,8 +1,8 @@
 # Hi, I'm Sven 👋
 
-Engineering lead and AI solution architect with 15+ years of experience in complex, regulated systems. Based in Düsseldorf, Germany.
+Engineering lead and AI solution architect with more than a decade of experience in complex, regulated software systems.
 
-I spent about ten years in automotive systems engineering at Ford and Bosch. In safety-critical software, clear requirements are not optional. Today I bring that same discipline to AI: agents are only as reliable as the requirements that guide them.
+I spent about eight years in automotive systems engineering at Ford and Bosch. In safety-critical software, clear requirements are not optional. Today I bring that same discipline to AI: agents are only as reliable as the requirements that guide them.
 
 My background also includes leading an international engineering team at Bosch, DevOps leadership in a critical-infrastructure environment, and independent full-stack and AI development. I hold a B.Sc. in Electrical Engineering and an MBA from WHU.
 
@@ -42,10 +42,8 @@ I use AI coding tools daily, including Claude Code. My recent projects combine A
 
 Writing code is the smaller part of the work. Most of it is understanding what a system must do, and making sure it does exactly that.
 
-I care about explicit expectations, maintainable systems, and honest communication about technical limitations. Not every problem needs AI. And a working prototype is not the same as a production-ready system.
+I care about aligned expectations, maintainable systems, and honest communication about technical limitations. Not every problem needs AI. And a working prototype is not the same as a production-ready system.
 
 ## Let's connect
-
-I'm looking for a permanent role as a lead engineer, solution architect, AI engineer, or technical project lead. Hybrid in Düsseldorf and Cologne/Bonn, or remote within DACH.
 
 [Website](https://svenst.me) · [LinkedIn](https://www.linkedin.com/in/sven-stadhouders-2365221ab/)
